@@ -1,0 +1,5 @@
+/* Important to have the cursor work on the whole screen */
+
+html, body {
+    height: 100%;
+}
